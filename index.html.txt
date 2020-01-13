@@ -2,5 +2,7 @@
 <head>
 </head>
 <body>
+<h1>Hola que haces</h1>
+<p>Viernes te extraño</p>
 </body>
 </html>
